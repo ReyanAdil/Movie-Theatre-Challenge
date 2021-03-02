@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c533ccb9-4ee0-4ec4-8fae-077e402c2eeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pAb39VvxJouhJTEyOa7wDsNjFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BetterApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BetterApproach" />
+      <module name="Theatre Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Theatre Code" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hell" />
+      <module name="Theatre Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hello" />
+      <module name="Theatre Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.hello" />
+      <item itemvalue="Application.hell" />
+      <item itemvalue="Application.BetterApproach" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.hell" />
+        <item itemvalue="Application.BetterApproach" />
+        <item itemvalue="Application.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c533ccb9-4ee0-4ec4-8fae-077e402c2eeb" name="Default Changelist" comment="" />
+      <created>1614628639510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614628639510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2693" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1614653447801">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2693" y="266" key="#com.intellij.ide.util.MemberChooser/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614653447801" />
+    <state x="2618" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1614683864936">
+      <screen x="1920" y="25" width="1920" height="999" />
+    </state>
+    <state x="2618" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1440.531.1440.875/0.25.1920.1055/1920.25.1920.999@1920.25.1920.999" timestamp="1614683864936" />
+    <state x="2618" y="303" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614650060263" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1614691480182">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/-1440.531.1440.875/0.25.1920.1055/1920.25.1920.999@1920.25.1920.999" timestamp="1614689590961" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614691480182" />
+    <state width="1398" height="287" key="GridCell.Tab.0.bottom/0.25.1440.823@0.25.1440.823" timestamp="1614657889598" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1614691480181">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/-1440.531.1440.875/0.25.1920.1055/1920.25.1920.999@1920.25.1920.999" timestamp="1614689590959" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614691480181" />
+    <state width="1398" height="287" key="GridCell.Tab.0.center/0.25.1440.823@0.25.1440.823" timestamp="1614657889598" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1614691480180">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/-1440.531.1440.875/0.25.1920.1055/1920.25.1920.999@1920.25.1920.999" timestamp="1614689590959" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614691480180" />
+    <state width="1398" height="287" key="GridCell.Tab.0.left/0.25.1440.823@0.25.1440.823" timestamp="1614657889597" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1614691480181">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/-1440.531.1440.875/0.25.1920.1055/1920.25.1920.999@1920.25.1920.999" timestamp="1614689590960" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614691480181" />
+    <state width="1398" height="287" key="GridCell.Tab.0.right/0.25.1440.823@0.25.1440.823" timestamp="1614657889598" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1614628645278">
+      <screen x="0" y="25" width="1920" height="999" />
+    </state>
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614628645278" />
+    <state x="2545" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1614650988406">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="259" width="670" height="676" key="search.everywhere.popup/-1440.531.1440.875/0.25.1920.999/1920.25.1920.1055@1920.25.1920.1055" timestamp="1614650988406" />
+  </component>
+</project>
